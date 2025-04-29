@@ -35,7 +35,7 @@
 | Project | Tech Stack | Description |
 |---------|------------|-------------|
 | **[Portfolio Website](https://vishal-jaat.netlify.app)** | HTML, CSS, JavaScript | My personal portfolio showcasing skills & projects |
-| **Project X** | Laravel, MySQL | Custom web app built for efficient client management |
+| **URAWARRIOR** | Laravel, MySQL | Custom web app built for efficient client management |
 | **API Integration Project** | Node.js, MongoDB | REST API integration with third-party services |
 
 ---
